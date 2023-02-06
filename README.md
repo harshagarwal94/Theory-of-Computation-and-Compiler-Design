@@ -64,4 +64,4 @@ Problems: Identification of Undecidability – Code generation
 
 # Disclaimer
 * Educational Purpose 
-* Licensed
+* CC0-1.0 license
